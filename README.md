@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there 👋, I'm Ömer Pürlü
 
-<!--
-**Omerpurlu/OmerPurlu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student (2nd Year) at Van Yüzüncü Yıl University.
+💻 Passionate about building full-stack applications and system architectures.
+🚀 Actively looking for Summer Internship opportunities!
 
-Here are some ideas to get you started:
+### 🛠️ Skills & Technologies
+- **Frontend:** React, JavaScript, HTML
+- **Backend:** C#, C++, .NET
+- **Database:** PostgreSQL
+- **DevOps & Tools:** Docker, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 What I'm working on
+- Developing **UniSphere**, a full-stack web architecture using .NET, React, and Docker.
+- Designing a QR-code based seat management system architecture for university libraries.
+
+### 📫 How to reach me
+- **LinkedIn:** [linkedin.com/in/omerpurlu](https://www.linkedin.com/in/omerpurlu)
+- **Email:** omrprl.00@gmail.com
