@@ -13,6 +13,7 @@
 ### 🔭 What I'm working on
 - Developing **UniSphere**, a full-stack web architecture using .NET, React, and Docker.
 - Designing a QR-code based seat management system architecture for university libraries.
+- Building a **Smart Garden** application featuring a comprehensive plant encyclopedia and tracking system.
 
 ### 📫 How to reach me
 - **LinkedIn:** [linkedin.com/in/omerpurlu](https://www.linkedin.com/in/omerpurlu)
